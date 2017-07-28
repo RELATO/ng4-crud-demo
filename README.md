@@ -1,6 +1,6 @@
 # ng4-crud-demo
 
-## Usando no json-server para emular o backend
+## Usando o json-server para emular o backend ( arquivo de dados localizado na pasta src/assets/db.json )
 ```
 json-server --watch  --id _id db.json
 ``` 
