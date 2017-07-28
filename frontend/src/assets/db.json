@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "_id": 1,
+      "first_name": "First",
+      "last_name": "Last",
+      "email": "email@email.com",
+      "editable": false
+    },
+    {
+      "_id": 2,
+      "first_name": "First",
+      "last_name": "Last",
+      "email": "email@email.com",
+      "editable": false
+    },
+    {
+      "_id": 3,
+      "first_name": "First",
+      "last_name": "Last",
+      "email": "email@email.com",
+      "editable": false
+    },
+    {
+      "_id": 43,
+      "first_name": "Rafae",
+      "last_name": "Lontra",
+      "email": "pointdotpoint@gmail.com",
+      "editable": false
+    }
+  ]
+}
